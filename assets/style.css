@@ -1,0 +1,27 @@
+body {
+  max-width: 720px;
+  margin: 40px auto;
+  padding: 0 16px;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+  color: #111;
+  background: #fff;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+}
+
+a {
+  color: #000;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+code, pre {
+  font-family: Menlo, Monaco, monospace;
+  font-size: 0.95em;
+}
